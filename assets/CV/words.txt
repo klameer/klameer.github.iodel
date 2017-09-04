@@ -1,6 +1,11 @@
 
 Finance,
-CIMA, financial accounting, management accounting, business case, npv, irr, present value, project accountant, project accounting, programme accounting, program accountant, finance analyst, finance data analyst, month end, fp&a, fp & a, financial planning and accounting,
+Finance Modeller, Financial Modeller, Financial Modelling 
+management accounting, management accountant
+CIMA, financial accounting, business case, npv, irr, present value, project accountant, project accounting, programme accounting, program accountant, finance analyst, finance data analyst, month end, fp&a, fp & a, financial planning and accounting,
+
+Industry 
+Storage, computer storage, VMAX, VNX, s3, converged storage, cloud, cloud, s3, virtualization, 
 
 Applications,
 sap, crystal reports, salesforce, salesforce.com, skype, office, office 365,
